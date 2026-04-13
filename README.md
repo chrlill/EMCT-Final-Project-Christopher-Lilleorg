@@ -95,7 +95,7 @@ DotSimulate StreamDiffusionTD Component
 
 [Friction(less) demo 2](https://youtube.com/shorts/QzwLYErVDXo?feature=share)
 
-These were taken during the 2025 Goldsmiths Creative Computing degree show.
+These were filmed during the 2025 Goldsmiths Music Computing BA degree show.
 
 
 # License
