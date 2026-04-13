@@ -12,7 +12,7 @@ Date: June 2nd, 2025
 # Project Overview
 
 
-Friction(less) is an audiovisual touch-interactive magic mirror that allows the user to generate dream-like sounds and images by drawing on the screen. 
+Friction(less) is an audiovisual touch-interactive magic mirror that allows the user to generate dream-like sounds and images by drawing on a touchscreen. 
 
 This project aims to research the affective, haptic and psychoacoustic properties of tactile visual feedback and immersive sound design techniques used in modern touchscreen devices to create new methods of digital mythmaking.
 
