@@ -16,6 +16,14 @@ Friction(less) is an interactive audio-visual installation that combines live so
 
 This installation is normally controlled with a touchscreen interface, but the code for this version has been adjusted to enable mouse controls.
 
+# Video Documentation
+
+[Friction(less) demo 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share) 
+
+[Friction(less) demo 2](https://youtube.com/shorts/QzwLYErVDXo?feature=share)
+
+These were filmed during the 2025 Goldsmiths Music Computing BA degree show.
+
 
 # Software & Libraries
 
@@ -87,15 +95,6 @@ TouchDesigner – Created by Derivative, offering a node-based visual programmin
 
 StreamDiffusionTD – Custom component by DotSimulate, used to generate AI imagery in real time within TouchDesigner. 
 DotSimulate StreamDiffusionTD Component
-
-
-# Video Documentation
-
-[Friction(less) demo 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share) 
-
-[Friction(less) demo 2](https://youtube.com/shorts/QzwLYErVDXo?feature=share)
-
-These were filmed during the 2025 Goldsmiths Music Computing BA degree show.
 
 
 # License
