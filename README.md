@@ -95,5 +95,5 @@ This project is for educational purposes and is not for commercial use. All thir
 
 # Video Documentation
 
-[▶ Demo video 1]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/iQ6FExcTmnY?feature=share))
+[▶ Demo video 1]([(https://youtube.com/shorts/iQ6FExcTmnY?feature=share)])
 
