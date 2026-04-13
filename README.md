@@ -12,9 +12,15 @@ Date: June 2nd, 2025
 # Project Overview
 
 
-Friction(less) is an interactive audio-visual installation that combines live sound synthesis and real-time AI-generated imagery. This project integrates Max/MSP with the FluCoMa and ODOT packages for audio synthesis, and TouchDesigner with the custom StreamDiffusionTD component by DotSimulate for the visuals. 
+Friction(less) is an audiovisual touch-interactive magic mirror that allows the user to generate dream-like sounds and images by drawing on the screen. 
 
-This installation is normally controlled with a touchscreen interface, but the code for this version has been adjusted to enable mouse controls.
+This project aims to research the affective, haptic and psychoacoustic properties of tactile visual feedback and immersive sound design techniques used in modern touchscreen devices to create new methods of digital mythmaking.
+
+The project consists of an immersive audiovisual experience that is interactable via a large touchscreen interface. Drawing on the screen controls an audio-reactive brush used as an image prompt to generate AI images in real time. The touchscreen input also controls a neural network powered granular synthesiser which responds to finger movements and provides tactile sonic feedback, creating the illusion of materiality. A harmonic drone provides background ambience throughout the experience, designed to utilize the psychoacoustic and emotionally affective properties of sound to create a state of deep focus and meditation.
+
+This project integrates Max/MSP with the FluCoMa and ODOT packages for audio synthesis, and TouchDesigner with the custom StreamDiffusionTD component by DotSimulate for the visuals. 
+
+The installation is normally controlled with a touchscreen interface, but the code for this version has been adjusted to enable mouse controls.
 
 # Video Documentation
 
