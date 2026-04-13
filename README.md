@@ -12,7 +12,7 @@ Date: June 2nd, 2025
 # Project Overview
 
 
-Friction(less) is an interactive audio-visual installation that combines live sound synthesis and real-time AI-generated imagery. This project integrates Max/MSP with the FluCoMa and ODOT packages for audio synthesis, and TouchDesigner with the custom StreamDiffusionTD component by DotSimulate for the visuals.
+Friction(less) is an interactive audio-visual installation that combines live sound synthesis and real-time AI-generated imagery. This project integrates Max/MSP with the FluCoMa and ODOT packages for audio synthesis, and TouchDesigner with the custom StreamDiffusionTD component by DotSimulate for the visuals. 
 
 This installation is normally controlled with a touchscreen interface, but the code for this version has been adjusted to enable mouse controls.
 
@@ -92,4 +92,8 @@ DotSimulate StreamDiffusionTD Component
 # License
 
 This project is for educational purposes and is not for commercial use. All third-party libraries and components are credited in the acknowledgements section.
+
+# Video Documentation
+
+[▶ Demo video 1]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/iQ6FExcTmnY?feature=share))
 
