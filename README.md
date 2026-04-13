@@ -25,7 +25,8 @@ The installation is normally controlled with a touchscreen interface, but the co
 
 # Project Report
 
-[Friction(less): Exploring digital mythmaking, psychoacoustics and ethical AI art with a magic mirror](https://github.com/user-attachments/files/26678015/Friction.less._Final_Project_Report.pdf)
+[Friction(less): Exploring digital mythmaking, psychoacoustics and ethical AI art with a magic mirror](https://github.com/user-attachments/files/26678047/Friction.less._Final_Project_Report-1.pdf)
+
 
 
 # Video Documentation
