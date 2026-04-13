@@ -91,9 +91,11 @@ DotSimulate StreamDiffusionTD Component
 
 # Video Documentation
 
-[Friction(less) demo 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share)
+[Friction(less) demo 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share) 
 
 [Friction(less) demo 2](https://youtube.com/shorts/QzwLYErVDXo?feature=share)
+
+These were taken during the 2025 Goldsmiths Creative Computing degree show.
 
 
 # License
