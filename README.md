@@ -22,6 +22,12 @@ This project integrates Max/MSP with the FluCoMa and ODOT packages for audio syn
 
 The installation is normally controlled with a touchscreen interface, but the code for this version has been adjusted to enable mouse controls.
 
+
+# Project Report
+
+[Friction(less): Exploring digital mythmaking, psychoacoustics and ethical AI art with a magic mirror](https://github.com/user-attachments/files/26678015/Friction.less._Final_Project_Report.pdf)
+
+
 # Video Documentation
 
 [Friction(less) demo 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share) 
