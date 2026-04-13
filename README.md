@@ -89,13 +89,13 @@ StreamDiffusionTD – Custom component by DotSimulate, used to generate AI image
 DotSimulate StreamDiffusionTD Component
 
 
+# Video Documentation
+
+[Friction(less) demo 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share)
+
+[Friction(less) demo 2](https://youtube.com/shorts/QzwLYErVDXo?feature=share)
+
+
 # License
 
 This project is for educational purposes and is not for commercial use. All third-party libraries and components are credited in the acknowledgements section.
-
-# Video Documentation
-
-[Installation demo video 1](https://youtube.com/shorts/iQ6FExcTmnY?feature=share)
-
-[Installation demo video 2](https://youtube.com/shorts/QzwLYErVDXo?feature=share)
-
